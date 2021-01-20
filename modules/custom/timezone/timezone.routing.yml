@@ -1,0 +1,8 @@
+timezone.routing:
+  path: '/timezone'
+  defaults:
+    _controller: 'Drupal\timezone\Controller\TimezoneController::getTimezone'
+    _title: 'World Timezone Api'
+  requirements:
+    _permission: 'access content'
+    

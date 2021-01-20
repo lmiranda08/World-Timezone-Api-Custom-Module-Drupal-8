@@ -1,0 +1,4 @@
+name: kebocatest
+recipe: drupal8
+config:
+  webroot: .

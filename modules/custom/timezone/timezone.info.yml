@@ -1,0 +1,6 @@
+name: World Timezone Api
+description: Its shows timezone for some cities
+type: module
+package: Custom
+core: 8.x
+
