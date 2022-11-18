@@ -6,7 +6,7 @@ In this custom module, you can see the how to connect to World Timezone Api and 
 
 ### Installation 🔧
 
-1) You need to have Lando for enviroment
+1) You need to have Lando for environment
 2) First clone repo
 3) Lando start
 4) Lando info (show all the configuration like database login)
